@@ -6,8 +6,8 @@ Ce tableur excel a pour but d'évaluer chaque équipe et chaque joueur à partir
 ! Nécessité pour le bon fonctionnement du fichier excel: !
 
 - Une connexion internet
-- Une version d'excel qui supporte les macro (VBA, vous remarquerez qu'il s'agit d'un fichier ".xlsm", le "m" indique donc des macros)
+- Une version d'excel qui supporte les macros (VBA, vous remarquerez qu'il s'agit d'un fichier ".xlsm", le "m" indique donc des macros)
 - La version MacOS de excel ne supporte pas ces fonctionnalité, vous pourrez donc utiliser le tableur mais pas les macros
-- Si vous souhaitez modifier ces macros, il vous faut activer le mode "développeur" de excel: Fichier, options, Personnaliser le ruban,
+- Si vous souhaitez modifier ces macros, il faut activer le mode "développeur" de excel: Fichier, options, Personnaliser le ruban,
   et cochez "développeur"
 
