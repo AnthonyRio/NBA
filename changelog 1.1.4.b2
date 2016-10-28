@@ -7,3 +7,9 @@ Nouveautés:
 Corrections:
 - Correction de quelques bugs mineurs au niveau des données des statistiques
 
+# 1.1.4.b2
+
+Nouveautés:
+- Ajout des PER manquants: Atlanta, Chicago, Washington, LA Clippers
+- Correction de quelques bugs mineurs au niveau des données des statistiques
+- Optimisation des formules de calcul de statistique
